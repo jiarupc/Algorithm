@@ -1,0 +1,9 @@
+/.idea/
+/.gradle/
+/bulid/
+
+*.class
+*.log
+*.iml
+*.jar
+*.war
