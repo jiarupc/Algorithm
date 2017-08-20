@@ -16,7 +16,7 @@ public class SelectionSort{
         }
     }
 
-    private static void swap(Object num[], int i, int minIndex) {
+    private static void swap(Object[] num, int i, int minIndex) {
         Object temp = num[i];
         num[i] = num[minIndex];
         num[minIndex] = temp;
